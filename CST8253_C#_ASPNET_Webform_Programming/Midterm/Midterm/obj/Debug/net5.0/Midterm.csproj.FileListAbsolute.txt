@@ -1,0 +1,16 @@
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/bin/Debug/net5.0/Midterm
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/bin/Debug/net5.0/Midterm.deps.json
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/bin/Debug/net5.0/Midterm.runtimeconfig.json
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/bin/Debug/net5.0/Midterm.runtimeconfig.dev.json
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/bin/Debug/net5.0/Midterm.dll
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/bin/Debug/net5.0/Midterm.pdb
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.csproj.AssemblyReference.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.AssemblyInfoInputs.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.AssemblyInfo.cs
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.csproj.CoreCompileInputs.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.dll
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/refint/Midterm.dll
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.pdb
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/Midterm.genruntimeconfig.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/Midterm/Midterm/obj/Debug/net5.0/ref/Midterm.dll

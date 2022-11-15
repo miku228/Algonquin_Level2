@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kocvsF058tu+kVrNCbmU+fk+7sExeKIYsn+jWHAycdb+l4qet0gkCEnSeypAGR0PcA9FoiLQrjZbJRwzbnoE8w==",
+  "success": true,
+  "projectFilePath": "/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/Lab1.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikuabe/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

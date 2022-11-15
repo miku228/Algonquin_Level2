@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{60A98318-DA72-42DC-A72D-0E5D5A1549AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChallengeLab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChallengeLab/Account.cs">
+    <Files>
+      <File FileName="ChallengeLab/Account.cs" Line="120" Column="13" />
+      <File FileName="ChallengeLab/Program.cs" Line="164" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChallengeLab" expanded="True">
+            <Node name="ChallengeLab" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>amount</Value>
+          <Value>Convert.ToString(amount)</Value>
+          <Value>dt.ToString("yyyy-mm-dd")</Value>
+          <Value>dt</Value>
+          <Value>checkingActivities</Value>
+          <Value>savingActivities</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,16 @@
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/bin/Debug/net5.0/Lab1.deps.json
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/bin/Debug/net5.0/Lab1.runtimeconfig.json
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/bin/Debug/net5.0/Lab1.runtimeconfig.dev.json
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/bin/Debug/net5.0/Lab1.dll
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/bin/Debug/net5.0/Lab1.pdb
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.csproj.AssemblyReference.cache
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfoInputs.cache
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfo.cs
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.dll
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/ref/Lab1.dll
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.pdb
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/Lab1.genruntimeconfig.cache
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/bin/Debug/net5.0/Lab1
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab1/Lab1/obj/Debug/net5.0/refint/Lab1.dll

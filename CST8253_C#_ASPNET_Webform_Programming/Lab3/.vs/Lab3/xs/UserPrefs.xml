@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0C370D7F-3E70-40EB-9CBA-8A777F8D98D1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/Lab3.cs" relfile="Lab3.cs" line="76" column="1" />
+      <Breakpoint file="/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/Lab3.cs" relfile="Lab3.cs" line="203" column="1" />
+      <Breakpoint file="/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/Lab3.cs" relfile="Lab3.cs" line="198" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3.cs">
+    <Files>
+      <File FileName="Lab3.cs" Line="72" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3" expanded="True">
+            <Node name="Lab3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>arr[mid]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

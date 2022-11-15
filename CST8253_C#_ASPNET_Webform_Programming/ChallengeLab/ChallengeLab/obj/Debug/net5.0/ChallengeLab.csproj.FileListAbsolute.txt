@@ -1,0 +1,16 @@
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/bin/Debug/net5.0/ChallengeLab
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/bin/Debug/net5.0/ChallengeLab.deps.json
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/bin/Debug/net5.0/ChallengeLab.runtimeconfig.json
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/bin/Debug/net5.0/ChallengeLab.runtimeconfig.dev.json
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/bin/Debug/net5.0/ChallengeLab.dll
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/bin/Debug/net5.0/ChallengeLab.pdb
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.csproj.AssemblyReference.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.AssemblyInfoInputs.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.AssemblyInfo.cs
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.csproj.CoreCompileInputs.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.dll
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/refint/ChallengeLab.dll
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.pdb
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ChallengeLab.genruntimeconfig.cache
+/Users/mikuabe/Algonquin_College/Level2/CST8253_WebProgramming/ChallengeLab/ChallengeLab/obj/Debug/net5.0/ref/ChallengeLab.dll

@@ -1,0 +1,14 @@
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/bin/Debug/netcoreapp3.1/Lab3
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/bin/Debug/netcoreapp3.1/Lab3.deps.json
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/bin/Debug/netcoreapp3.1/Lab3.runtimeconfig.json
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/bin/Debug/netcoreapp3.1/Lab3.runtimeconfig.dev.json
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/bin/Debug/netcoreapp3.1/Lab3.dll
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/bin/Debug/netcoreapp3.1/Lab3.pdb
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.csproj.AssemblyReference.cache
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.AssemblyInfoInputs.cache
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.AssemblyInfo.cs
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.csproj.CoreCompileInputs.cache
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.dll
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.pdb
+/Users/mikuabe/Algonquin_College/Level 2/CST8253_WebProgramming/Lab3/obj/Debug/netcoreapp3.1/Lab3.genruntimeconfig.cache
