@@ -6,25 +6,25 @@ on:
     branches: [master]
 jobs:
   deploy-to-github-pages:
-  #use ubuntu-latest image to run steps on
-  runs-on: ubuntu-latest
-  steps:
-  #uses GutHub's checkout action to checkout code form the master branch
-  - uses: actions/checkout@v2
-  
-  #sets up .NET Core SDK 6.0.x
-  - name: Setup .NET Core SDK
-    uses: actions/setup-dotnet@v1
-    with:
-      dotnet-version:6.0.x
-    
-  # Publishes project to the release-folder
-  - name: Publish .NET Core Project
-    run: dotnet publish FinalProject.csproj -c:Release -p:GHPages=true -o release --nologo
-    
-  - name: Commit wwwroot to GitHub Pages
-    uses: JamesIves/github-pages-deploy-action@3.7.1
-    with:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      BRANCH: gh-pages
-      FOLDER: release/wwwroot
+    #use ubuntu-latest image to run steps on
+    runs-on: ubuntu-latest
+    steps:
+    #uses GutHub's checkout action to checkout code form the master branch
+    - uses: actions/checkout@v2
+
+    #sets up .NET Core SDK 6.0.x
+    - name: Setup .NET Core SDK
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 6.0.x
+
+    # Publishes project to the release-folder
+    - name: Publish .NET Core Project
+      run: dotnet publish FinalProject.csproj -c:Release -p:GHPages=true -o release --nologo
+
+    - name: Commit wwwroot to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: release/wwwroot
